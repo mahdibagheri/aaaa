@@ -14,7 +14,19 @@
 do
 
 function run(msg, matches)
-  return 'DBTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @MaSkAoS @Josepdal\nSupport: @skneos @iicc1 @Serx666\nChannels: @DBTeamEN @DBTeamES\n\nCheckout: https://github.com/Josepdal/DBTeam\nGNU GPL v2 license.'
+  return 'aqa_mp3 v4
+    ربات آقا ام پی تری 
+    قوی ترین و قدرتمند ترین سرور جهان رو به خودش اختصاص داده 
+    و آماده بهترین خدمات با کیفیت بالا آماد ارانه و خدمات
+    به شمات 
+    برخی از مشکلات ربات نمیتونه گروه بزنه 
+    ولی میتوانید گروه بزنید و ربات رو توی گروهتون ادد شه
+    طبق همین مشکل گروه سوپر فعلا به کسی اعطا نمیشود 
+    برای ادد شدن ربات درون گروه شما و مدیریت کردن گروهتون به سه آی دی زیر مراجعه فرمایید
+     @mihammad_mmb سودو و برنامه نویس ربات
+     @MR_MH58 سودو و کارای مربوط به سرور
+     
+      telegram.me/aqa_mp3'
 end
 
 return {
