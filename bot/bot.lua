@@ -244,6 +244,7 @@ function create_config( )
       "version",
       "italian_lang",
       "a",
+      "b",
       "portuguese_lang",
       "arabic"
      },
